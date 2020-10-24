@@ -1,3 +1,7 @@
+/*
+* Recursive Fractel Tree 
+* by ptech12
+*/
 let slider, angle;
 function setup() {
     createCanvas(720, 480);
